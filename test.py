@@ -1,4 +1,2 @@
-name = input()
-print ('Привет,', name)
-name = input()
-print ('Привет,', name)
+a = 10
+print (a)
